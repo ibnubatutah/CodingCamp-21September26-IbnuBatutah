@@ -1,2 +1,2 @@
-# CodingCamp-21September26-ibnubatutah
+# CodingCamp-21September26-ibnuBatutah
 Mini Coding Project - Ibnu Batutah
