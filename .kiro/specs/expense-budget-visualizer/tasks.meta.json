@@ -1,0 +1,303 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create the HTML document shell with `<head>` metadata": [
+      {
+        "executionId": "eaf7f54c-2ff8-461a-884f-a0f50e53a381",
+        "chatSessionId": "sess_0900388d-28ee-4539-933b-b78941f6b637",
+        "timestamp": 1790342809655
+      },
+      {
+        "executionId": "eaf7f54c-2ff8-461a-884f-a0f50e53a381",
+        "chatSessionId": "sess_0900388d-28ee-4539-933b-b78941f6b637",
+        "timestamp": 1790342861687
+      }
+    ],
+    "1.2 Add the `<main>` layout and three `<section>` elements": [
+      {
+        "executionId": "eaf7f54c-2ff8-461a-884f-a0f50e53a381",
+        "chatSessionId": "sess_0900388d-28ee-4539-933b-b78941f6b637",
+        "timestamp": 1790342868459
+      },
+      {
+        "executionId": "eaf7f54c-2ff8-461a-884f-a0f50e53a381",
+        "chatSessionId": "sess_0900388d-28ee-4539-933b-b78941f6b637",
+        "timestamp": 1790342872795
+      }
+    ],
+    "1. Scaffold `index.html`": [
+      {
+        "executionId": "eaf7f54c-2ff8-461a-884f-a0f50e53a381",
+        "chatSessionId": "sess_0900388d-28ee-4539-933b-b78941f6b637",
+        "timestamp": 1790342872869
+      }
+    ],
+    "2.1 Add reset, base typography, and layout sections": [
+      {
+        "executionId": "18ba7dcb-5025-40ad-947b-6bd0868d0416",
+        "chatSessionId": "sess_935441fb-b985-4f5c-91e6-fa93c8a351b4",
+        "timestamp": 1790342980854
+      },
+      {
+        "executionId": "18ba7dcb-5025-40ad-947b-6bd0868d0416",
+        "chatSessionId": "sess_935441fb-b985-4f5c-91e6-fa93c8a351b4",
+        "timestamp": 1790343092652
+      }
+    ],
+    "2.2 Add transaction list, total, chart, and error styles": [
+      {
+        "executionId": "18ba7dcb-5025-40ad-947b-6bd0868d0416",
+        "chatSessionId": "sess_935441fb-b985-4f5c-91e6-fa93c8a351b4",
+        "timestamp": 1790343113597
+      },
+      {
+        "executionId": "18ba7dcb-5025-40ad-947b-6bd0868d0416",
+        "chatSessionId": "sess_935441fb-b985-4f5c-91e6-fa93c8a351b4",
+        "timestamp": 1790343122238
+      }
+    ],
+    "2.3 Add responsive media query section (`@media (max-width: 599px)`)": [
+      {
+        "executionId": "18ba7dcb-5025-40ad-947b-6bd0868d0416",
+        "chatSessionId": "sess_935441fb-b985-4f5c-91e6-fa93c8a351b4",
+        "timestamp": 1790343113976
+      },
+      {
+        "executionId": "18ba7dcb-5025-40ad-947b-6bd0868d0416",
+        "chatSessionId": "sess_935441fb-b985-4f5c-91e6-fa93c8a351b4",
+        "timestamp": 1790343122542
+      }
+    ],
+    "2. Write base CSS — reset, layout, and form styles (`css/style.css`)": [
+      {
+        "executionId": "18ba7dcb-5025-40ad-947b-6bd0868d0416",
+        "chatSessionId": "sess_935441fb-b985-4f5c-91e6-fa93c8a351b4",
+        "timestamp": 1790343122626
+      }
+    ],
+    "3.1 Write Section 1 (State) and Section 2 (DOM References)": [
+      {
+        "executionId": "91b03f7c-0ee7-4c92-8cbd-a1d4ee084f80",
+        "chatSessionId": "sess_45d1b25d-3f8f-4c79-b07e-f20c4abe2827",
+        "timestamp": 1790343263184
+      },
+      {
+        "executionId": "91b03f7c-0ee7-4c92-8cbd-a1d4ee084f80",
+        "chatSessionId": "sess_45d1b25d-3f8f-4c79-b07e-f20c4abe2827",
+        "timestamp": 1790343310974
+      }
+    ],
+    "3.2 Write Section 3 (Storage Helpers): `saveToStorage()` and `loadFromStorage()`": [
+      {
+        "executionId": "91b03f7c-0ee7-4c92-8cbd-a1d4ee084f80",
+        "chatSessionId": "sess_45d1b25d-3f8f-4c79-b07e-f20c4abe2827",
+        "timestamp": 1790343263617
+      },
+      {
+        "executionId": "91b03f7c-0ee7-4c92-8cbd-a1d4ee084f80",
+        "chatSessionId": "sess_45d1b25d-3f8f-4c79-b07e-f20c4abe2827",
+        "timestamp": 1790343318751
+      }
+    ],
+    "3. Implement JavaScript state, DOM references, and storage helpers (`js/script.js`)": [
+      {
+        "executionId": "91b03f7c-0ee7-4c92-8cbd-a1d4ee084f80",
+        "chatSessionId": "sess_45d1b25d-3f8f-4c79-b07e-f20c4abe2827",
+        "timestamp": 1790343318815
+      }
+    ],
+    "4.1 Write `validateForm()` — single-pass, all-fields validation": [
+      {
+        "executionId": "9fef410b-a486-495b-bc12-04bca6486a7d",
+        "chatSessionId": "sess_05074163-7905-4aa2-a368-be838d2a228e",
+        "timestamp": 1790343432733
+      },
+      {
+        "executionId": "9fef410b-a486-495b-bc12-04bca6486a7d",
+        "chatSessionId": "sess_05074163-7905-4aa2-a368-be838d2a228e",
+        "timestamp": 1790343474821
+      }
+    ],
+    "4. Implement form validation (Section 4 of `js/script.js`)": [
+      {
+        "executionId": "9fef410b-a486-495b-bc12-04bca6486a7d",
+        "chatSessionId": "sess_05074163-7905-4aa2-a368-be838d2a228e",
+        "timestamp": 1790343474906
+      }
+    ],
+    "5.1 Write `createTransaction(name, amount, category)` and `resetForm()`": [
+      {
+        "executionId": "c11b8b05-31bb-4bbc-b6ac-554c728d3d0a",
+        "chatSessionId": "sess_e0fcccc6-11f0-4223-8596-3d839f288e14",
+        "timestamp": 1790343805089
+      },
+      {
+        "executionId": "c11b8b05-31bb-4bbc-b6ac-554c728d3d0a",
+        "chatSessionId": "sess_e0fcccc6-11f0-4223-8596-3d839f288e14",
+        "timestamp": 1790343849136
+      }
+    ],
+    "5.2 Write `addTransaction()` — the full add flow": [
+      {
+        "executionId": "c11b8b05-31bb-4bbc-b6ac-554c728d3d0a",
+        "chatSessionId": "sess_e0fcccc6-11f0-4223-8596-3d839f288e14",
+        "timestamp": 1790343867674
+      },
+      {
+        "executionId": "c11b8b05-31bb-4bbc-b6ac-554c728d3d0a",
+        "chatSessionId": "sess_e0fcccc6-11f0-4223-8596-3d839f288e14",
+        "timestamp": 1790343920970
+      }
+    ],
+    "5. Implement transaction creation (Section 5 of `js/script.js`)": [
+      {
+        "executionId": "c11b8b05-31bb-4bbc-b6ac-554c728d3d0a",
+        "chatSessionId": "sess_e0fcccc6-11f0-4223-8596-3d839f288e14",
+        "timestamp": 1790343921034
+      }
+    ],
+    "6.1 Write `renderTransactionList()`": [
+      {
+        "executionId": "64d2d319-163a-4cca-b91a-022e7ce54855",
+        "chatSessionId": "sess_b0873ce0-b945-48f9-a966-cb1f74d4b37c",
+        "timestamp": 1790344016551
+      },
+      {
+        "executionId": "64d2d319-163a-4cca-b91a-022e7ce54855",
+        "chatSessionId": "sess_b0873ce0-b945-48f9-a966-cb1f74d4b37c",
+        "timestamp": 1790344115117
+      }
+    ],
+    "6.2 Write `updateTotal()`": [
+      {
+        "executionId": "64d2d319-163a-4cca-b91a-022e7ce54855",
+        "chatSessionId": "sess_b0873ce0-b945-48f9-a966-cb1f74d4b37c",
+        "timestamp": 1790344023825
+      },
+      {
+        "executionId": "64d2d319-163a-4cca-b91a-022e7ce54855",
+        "chatSessionId": "sess_b0873ce0-b945-48f9-a966-cb1f74d4b37c",
+        "timestamp": 1790344122656
+      }
+    ],
+    "6. Implement render functions — transaction list and total display (Section 6 of `js/script.js`)": [
+      {
+        "executionId": "64d2d319-163a-4cca-b91a-022e7ce54855",
+        "chatSessionId": "sess_b0873ce0-b945-48f9-a966-cb1f74d4b37c",
+        "timestamp": 1790344122702
+      }
+    ],
+    "8.1 Write `deleteTransaction(id)` with storage rollback": [
+      {
+        "executionId": "d32f5341-6136-495b-ab21-facef463924c",
+        "chatSessionId": "sess_462fb657-b4d4-4cb2-9dee-83c7128e7cfe",
+        "timestamp": 1790344328563
+      },
+      {
+        "executionId": "d32f5341-6136-495b-ab21-facef463924c",
+        "chatSessionId": "sess_462fb657-b4d4-4cb2-9dee-83c7128e7cfe",
+        "timestamp": 1790344364024
+      }
+    ],
+    "8. Implement delete transaction flow (Section 5 continued in `js/script.js`)": [
+      {
+        "executionId": "d32f5341-6136-495b-ab21-facef463924c",
+        "chatSessionId": "sess_462fb657-b4d4-4cb2-9dee-83c7128e7cfe",
+        "timestamp": 1790344364070
+      }
+    ],
+    "9.1 Write `buildChartData()` and `createChart()`": [
+      {
+        "executionId": "492eb9ad-e11f-440d-9f2d-f56483fbd269",
+        "chatSessionId": "sess_c8a18485-faba-4a66-a2b2-f31585a48bf5",
+        "timestamp": 1790344446929
+      },
+      {
+        "executionId": "492eb9ad-e11f-440d-9f2d-f56483fbd269",
+        "chatSessionId": "sess_c8a18485-faba-4a66-a2b2-f31585a48bf5",
+        "timestamp": 1790344519453
+      }
+    ],
+    "9.2 Write `updateChart()`": [
+      {
+        "executionId": "492eb9ad-e11f-440d-9f2d-f56483fbd269",
+        "chatSessionId": "sess_c8a18485-faba-4a66-a2b2-f31585a48bf5",
+        "timestamp": 1790344535731
+      },
+      {
+        "executionId": "492eb9ad-e11f-440d-9f2d-f56483fbd269",
+        "chatSessionId": "sess_c8a18485-faba-4a66-a2b2-f31585a48bf5",
+        "timestamp": 1790344569710
+      }
+    ],
+    "9. Implement Chart.js pie chart (Section 7 of `js/script.js`)": [
+      {
+        "executionId": "492eb9ad-e11f-440d-9f2d-f56483fbd269",
+        "chatSessionId": "sess_c8a18485-faba-4a66-a2b2-f31585a48bf5",
+        "timestamp": 1790344569757
+      }
+    ],
+    "10.1 Write `showStorageError(message)`": [
+      {
+        "executionId": "471e2201-38af-4a95-9fc6-88c5dba8e576",
+        "chatSessionId": "sess_67dfa0e6-6b02-473c-8c72-e8969fdaf33c",
+        "timestamp": 1790344659897
+      },
+      {
+        "executionId": "471e2201-38af-4a95-9fc6-88c5dba8e576",
+        "chatSessionId": "sess_67dfa0e6-6b02-473c-8c72-e8969fdaf33c",
+        "timestamp": 1790344693022
+      }
+    ],
+    "10. Implement error notification helper (Section 6 of `js/script.js`)": [
+      {
+        "executionId": "471e2201-38af-4a95-9fc6-88c5dba8e576",
+        "chatSessionId": "sess_67dfa0e6-6b02-473c-8c72-e8969fdaf33c",
+        "timestamp": 1790344693070
+      }
+    ],
+    "11.1 Write Section 8 (Event Listeners)": [
+      {
+        "executionId": "d4f87e00-d5de-44f9-80a7-a6a48afcf95c",
+        "chatSessionId": "sess_b4e56bb1-fdbb-418f-8670-fdc40d0ff406",
+        "timestamp": 1790344760847
+      },
+      {
+        "executionId": "d4f87e00-d5de-44f9-80a7-a6a48afcf95c",
+        "chatSessionId": "sess_b4e56bb1-fdbb-418f-8670-fdc40d0ff406",
+        "timestamp": 1790344796461
+      }
+    ],
+    "11.2 Write Section 9 (Initialisation) — `init()` function wired to `DOMContentLoaded`": [
+      {
+        "executionId": "a4668b22-27fd-4c7d-b13a-bbeb3f17e756",
+        "chatSessionId": "sess_7dee0828-78d0-44e2-879f-3b8519c6a9c4",
+        "timestamp": 1790344840395
+      },
+      {
+        "executionId": "a4668b22-27fd-4c7d-b13a-bbeb3f17e756",
+        "chatSessionId": "sess_7dee0828-78d0-44e2-879f-3b8519c6a9c4",
+        "timestamp": 1790344883452
+      }
+    ],
+    "11. Implement event listeners and initialisation (Sections 8 and 9 of `js/script.js`)": [
+      {
+        "executionId": "a4668b22-27fd-4c7d-b13a-bbeb3f17e756",
+        "chatSessionId": "sess_7dee0828-78d0-44e2-879f-3b8519c6a9c4",
+        "timestamp": 1790344883503
+      }
+    ],
+    "12. Final checkpoint — full smoke test": [
+      {
+        "executionId": "a5b6814c-3a83-4bd7-97d3-1772a3f7ab72",
+        "chatSessionId": "sess_2fde4b81-e207-4286-a683-098a10599b00",
+        "timestamp": 1790344963243
+      },
+      {
+        "executionId": "a5b6814c-3a83-4bd7-97d3-1772a3f7ab72",
+        "chatSessionId": "sess_2fde4b81-e207-4286-a683-098a10599b00",
+        "timestamp": 1790344990252
+      }
+    ]
+  }
+}
